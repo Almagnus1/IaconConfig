@@ -1,0 +1,50 @@
+{
+	"pTin": {
+        "template": "normal",
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
+        "clusterSize": 12,
+        "numClusters": 1,
+        "meanHeight": 23,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"sTin": {
+        "template": "normal",
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
+        "clusterSize": 6,
+        "numClusters": 3,
+        "meanHeight": 23,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"tTin": {
+        "template": "uniform",
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
+        "clusterSize": 4,
+        "numClusters": 8,
+        "minHeight": 1,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+}

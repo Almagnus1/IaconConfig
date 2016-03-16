@@ -1,0 +1,34 @@
+{
+	"pLapis": {
+        "template": "normal",
+        "block": "minecraft:lapis_ore",
+        "clusterSize": 4,
+        "numClusters": 2,
+        "meanHeight": 18,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"sLapis": {
+        "template": "normal",
+        "block": "minecraft:lapis_ore",
+        "clusterSize": 4,
+        "numClusters": 3,
+        "meanHeight": 18,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

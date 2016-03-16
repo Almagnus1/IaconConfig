@@ -1,0 +1,34 @@
+{
+	"pGold": {
+        "template": "normal",
+        "block": "minecraft:gold_ore",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 13,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"sGold": {
+        "template": "normal",
+        "block": "minecraft:gold_ore",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "meanHeight": 13,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+}

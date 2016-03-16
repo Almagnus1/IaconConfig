@@ -1,0 +1,50 @@
+{
+	"pIron": {
+        "template": "normal",
+        "block": "minecraft:iron_ore",
+        "clusterSize": 8,
+        "numClusters": 4,
+        "meanHeight": 33,
+        "maxVariance": 4,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"sIron": {
+        "template": "normal",
+        "block": "minecraft:iron_ore",
+        "clusterSize": 6,
+        "numClusters": 5,
+        "meanHeight": 33,
+        "maxVariance": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"tIron": {
+        "template": "uniform",
+        "block": "minecraft:iron_ore",
+        "clusterSize": 4,
+        "numClusters": 8,
+        "minHeight": 1,
+        "maxHeight": 54,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

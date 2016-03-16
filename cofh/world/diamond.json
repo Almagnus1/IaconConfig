@@ -1,0 +1,34 @@
+{
+	"pDiamond": {
+        "template": "normal",
+        "block": "minecraft:diamond_ore",
+        "clusterSize": 6,
+        "numClusters": 1,
+        "meanHeight": 8,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"sDiamond": {
+        "template": "normal",
+        "block": "minecraft:diamond_ore",
+        "clusterSize": 4,
+        "numClusters": 2,
+        "meanHeight": 8,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

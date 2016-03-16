@@ -1,0 +1,50 @@
+{
+	"pAluminum": {
+        "template": "normal",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 48,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+	"sAluminum": {
+        "template": "normal",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "clusterSize": 6,
+        "numClusters": 3,
+        "meanHeight": 48,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+	"tAluminum": {
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "clusterSize": 4,
+        "numClusters": 8,
+        "minHeight": 1,
+        "maxHeight": 65,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
