@@ -2,7 +2,7 @@
 	"pNickel": {
         "template": "normal",
         "block": [
-			{"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 10},
+			{"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 13},
 			{"name": "ThermalFoundation:Ore", "metadata": 5, "weight": 1}
 		],
         "clusterSize": 6,
@@ -21,7 +21,7 @@
 	"sNickel": {
         "template": "normal",
         "block": [
-			{"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 10},
+			{"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 13},
 			{"name": "ThermalFoundation:Ore", "metadata": 5, "weight": 1}
 		],
         "clusterSize": 3,
@@ -40,7 +40,7 @@
 	"tNickel": {
         "template": "uniform",
         "block": [
-			{"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 10},
+			{"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 13},
 			{"name": "ThermalFoundation:Ore", "metadata": 5, "weight": 1}
 		],
         "clusterSize": 4,
