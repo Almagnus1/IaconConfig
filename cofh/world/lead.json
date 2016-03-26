@@ -1,0 +1,20 @@
+{
+	"leadUniform": {
+        "template": "uniform",
+        "block": [
+			{"name": "ThermalFoundation:Ore", "metadata": 3}
+		],
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 1,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
